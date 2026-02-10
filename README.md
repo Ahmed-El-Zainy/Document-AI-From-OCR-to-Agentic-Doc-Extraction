@@ -1,1 +1,1 @@
-# # Document AI: From OCR to Agentic Doc Extraction
+# Document AI: From OCR to Agentic Doc Extraction
