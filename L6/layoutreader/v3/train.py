@@ -9,8 +9,8 @@ from transformers import (
     LayoutLMv3ForTokenClassification,
     set_seed,
 )
-from transformers.trainer import Trainer
 
+from transformers.trainer import Trainer
 from helpers import DataCollator, MAX_LEN
 
 

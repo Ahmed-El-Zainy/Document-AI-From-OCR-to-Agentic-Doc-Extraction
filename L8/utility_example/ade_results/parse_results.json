@@ -1,0 +1,990 @@
+{
+  "chunks": [
+    {
+      "id": "9841f6b3-f033-419f-a234-887b82d5b5d9",
+      "grounding": {
+        "box": {
+          "bottom": 0.06782948225736618,
+          "left": 0.05029398947954178,
+          "right": 0.2721189558506012,
+          "top": 0.013683153316378593
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9841f6b3-f033-419f-a234-887b82d5b5d9'></a>\n\n<::logo: SDGE\nSDGE\nCircular emblem with yellow, green, and blue curved stripes.::>",
+      "type": "logo"
+    },
+    {
+      "id": "3a9c88b7-bebf-437b-98de-c9b4749f87af",
+      "grounding": {
+        "box": {
+          "bottom": 0.09613759070634842,
+          "left": 0.2949819564819336,
+          "right": 0.5256223678588867,
+          "top": 0.014611378312110901
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3a9c88b7-bebf-437b-98de-c9b4749f87af'></a>\n\nACCOUNT NUMBER [redacted]\nSERVICE FOR [redacted]",
+      "type": "text"
+    },
+    {
+      "id": "4e68f18b-5b40-4d12-b354-9ffd77b00ffb",
+      "grounding": {
+        "box": {
+          "bottom": 0.048924438655376434,
+          "left": 0.6548332571983337,
+          "right": 0.8136134743690491,
+          "top": 0.020226528868079185
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4e68f18b-5b40-4d12-b354-9ffd77b00ffb'></a>\n\nDATE MAILED Apr 2, 2024\nsdge.com",
+      "type": "text"
+    },
+    {
+      "id": "45dcb0bb-95be-42b0-bc94-e5b787947694",
+      "grounding": {
+        "box": {
+          "bottom": 0.03361675143241882,
+          "left": 0.8805665373802185,
+          "right": 0.9673760533332825,
+          "top": 0.016971779987215996
+        },
+        "page": 0
+      },
+      "markdown": "<a id='45dcb0bb-95be-42b0-bc94-e5b787947694'></a>\n\nPage 1 of 6",
+      "type": "marginalia"
+    },
+    {
+      "id": "c8a15144-6081-41c7-941d-f4459551deba",
+      "grounding": {
+        "box": {
+          "bottom": 0.10444661974906921,
+          "left": 0.6575372219085693,
+          "right": 0.8892198801040649,
+          "top": 0.05175827443599701
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c8a15144-6081-41c7-941d-f4459551deba'></a>\n\nSign up to go Paperless\nSign up to go Paperless today.\nVisit sdge.com/go-paperless-today.",
+      "type": "text"
+    },
+    {
+      "id": "93de28da-bf90-4c77-a4e1-a4229981630e",
+      "grounding": {
+        "box": {
+          "bottom": 0.19986368715763092,
+          "left": 0.03189244866371155,
+          "right": 0.6325112581253052,
+          "top": 0.13323025405406952
+        },
+        "page": 0
+      },
+      "markdown": "<a id='93de28da-bf90-4c77-a4e1-a4229981630e'></a>\n\nIf your vehicle hits a power pole or electrical equipment, remain inside the vehicle and call 9-1-1. The ground around your vehicle may be energized.\nFind out if you qualify for bill discounts, payment plans, debt relief and more at sdge.com/assistance.",
+      "type": "text"
+    },
+    {
+      "id": "8a25e61e-8e76-4352-846d-31233bbd80a6",
+      "grounding": {
+        "box": {
+          "bottom": 0.2579912841320038,
+          "left": 0.03336980938911438,
+          "right": 0.6468286514282227,
+          "top": 0.21882805228233337
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8a25e61e-8e76-4352-846d-31233bbd80a6'></a>\n\nFinancial assistance to help eligible low income customers reduce outstanding account balances is available through SDG&E's new Arrearage Management Payment (AMP) plan. To see if you qualify and for Terms & Conditions, visit www.sdqe.com/AMP or call us at 1-800-411-7343.",
+      "type": "text"
+    },
+    {
+      "id": "94148085-3ca5-4fe1-b010-b2d20c0d5ba1",
+      "grounding": {
+        "box": {
+          "bottom": 0.29531025886535645,
+          "left": 0.03449264168739319,
+          "right": 0.41074270009994507,
+          "top": 0.2662675380706787
+        },
+        "page": 0
+      },
+      "markdown": "<a id='94148085-3ca5-4fe1-b010-b2d20c0d5ba1'></a>\n\nCARE You are currently receiving the CARE discount",
+      "type": "text"
+    },
+    {
+      "id": "473f71a2-5c6f-4143-b2ec-96ca57bf6669",
+      "grounding": {
+        "box": {
+          "bottom": 0.4053070843219757,
+          "left": 0.03164476156234741,
+          "right": 0.6496996879577637,
+          "top": 0.3087679445743561
+        },
+        "page": 0
+      },
+      "markdown": "<a id='473f71a2-5c6f-4143-b2ec-96ca57bf6669'></a>\n\n## Account Summary\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Previous Balance</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\">$269.26</td></tr>\n<tr><td id=\"0-6\">Payment Received</td><td id=\"0-7\">3/21/24</td><td id=\"0-8\">THANK YOU</td><td id=\"0-9\">- 269.26</td></tr>\n<tr><td id=\"0-a\">Current Charges</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\">+155.15</td></tr>\n<tr><td id=\"0-e\">Total Amount Due</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">$155.15</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "e517369d-051e-4679-bccc-126e08840724",
+      "grounding": {
+        "box": {
+          "bottom": 0.5189318060874939,
+          "left": 0.03148624300956726,
+          "right": 0.6493200063705444,
+          "top": 0.42867007851600647
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e517369d-051e-4679-bccc-126e08840724'></a>\n\n<table id=\"0-i\">\n<tr><td id=\"0-j\" colspan=\"2\">Summary of Current Charges</td><td id=\"0-k\"></td><td id=\"0-l\">(See page 2 for details)</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Billing Period</td><td id=\"0-o\">Usage</td><td id=\"0-p\">Amount($)</td></tr>\n<tr><td id=\"0-q\">Gas</td><td id=\"0-r\">Mar 1, 2024 - Mar 29, 2024</td><td id=\"0-s\">26 Therms</td><td id=\"0-t\">44.12</td></tr>\n<tr><td id=\"0-u\">Electric</td><td id=\"0-v\">Mar 1, 2024 - Mar 29, 2024</td><td id=\"0-w\">410 kWh</td><td id=\"0-x\">111.03</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">Total Charges this Month</td><td id=\"0-z\"></td><td id=\"0-A\">$155.15</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "f015a216-99ba-409c-909b-67c364e3c2eb",
+      "grounding": {
+        "box": {
+          "bottom": 0.5905463695526123,
+          "left": 0.03274914622306824,
+          "right": 0.6321992874145508,
+          "top": 0.5469577312469482
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f015a216-99ba-409c-909b-67c364e3c2eb'></a>\n\n**Regulatory Notices**\n* All customers are required to pay a Competition Transition Charge as part of the charges above, including those who choose an electric service provider other than SDG&E.",
+      "type": "text"
+    },
+    {
+      "id": "2fbcfbbb-5afd-4577-8401-e4442415a4aa",
+      "grounding": {
+        "box": {
+          "bottom": 0.41050541400909424,
+          "left": 0.669222354888916,
+          "right": 0.9817607402801514,
+          "top": 0.13948754966259003
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2fbcfbbb-5afd-4577-8401-e4442415a4aa'></a>\n\nDATE DUE Apr 21, 2024\nAMOUNT DUE $155.15\n<:: Gas Usage History (Total therms used)\nBar chart showing monthly therms usage.\nY-axis: Therms, with major grid lines and labels at 0, 7, 15, 22, 30, 37.\nX-axis: Months from March 2023 to March 2024, labeled as MAR MAY JUN JUN AUG AUG SEP OCT NOV DEC JAN FEB MAR, with year indicators '23' and '24'.\nData points (approximate therms per month):\nMAR 23: 32\nMAY 23: 27\nJUN 23: 22\nJUL 23 (represented by second JUN label): 20\nAUG 23: 10\nSEP 23: 15\nOCT 23: 16\nNOV 23: 22\nDEC 23: 28\nJAN 24: 34\nFEB 24: 31\nMAR 24: 25\n: chart::>\n26 Therms used\n0.9 Daily avg therms\n1.1 Daily avg therms last month\n18.8% Change in daily avg therms from last year\n18.5% Change in daily avg therms from last month\n29 Days in billing cycle",
+      "type": "figure"
+    },
+    {
+      "id": "33ce6da8-360b-4689-9c66-f4a3c06aa975",
+      "grounding": {
+        "box": {
+          "bottom": 0.6697367429733276,
+          "left": 0.6687873601913452,
+          "right": 0.9904124736785889,
+          "top": 0.418756365776062
+        },
+        "page": 0
+      },
+      "markdown": "<a id='33ce6da8-360b-4689-9c66-f4a3c06aa975'></a>\n\nElectric Usage History (Total kWh used)\n<::chart: Bar chart titled \"Electric Usage History (Total kWh used)\" showing kilowatt hours (kWh) used per month, broken down by On-Peak, Off-Peak, and Super Off-Peak.\nY-axis is labeled \"Kilowatt Hours\" with major tick marks at 0, 202, 404, 606, 808, and 1010 kWh.\nX-axis shows months from Mar 23 to Mar 24.\nLegend: On-Peak (orange), Off-Peak (light blue), Super Off-Peak (dark blue).\n\nData:\n- Mar 23: Super Off-Peak ~250 kWh, Off-Peak ~50 kWh, On-Peak ~70 kWh (Total ~370 kWh)\n- May: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~450 kWh)\n- Jun: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~120 kWh (Total ~520 kWh)\n- Jul: Super Off-Peak ~400 kWh, Off-Peak ~150 kWh, On-Peak ~180 kWh (Total ~730 kWh)\n- Aug: Super Off-Peak ~600 kWh, Off-Peak ~200 kWh, On-Peak ~200 kWh (Total ~1000 kWh)\n- Sep: Super Off-Peak ~450 kWh, Off-Peak ~150 kWh, On-Peak ~150 kWh (Total ~750 kWh)\n- Oct: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~500 kWh)\n- Nov: Super Off-Peak ~200 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~380 kWh)\n- Dec: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~450 kWh)\n- Jan: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~500 kWh)\n- Feb: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~430 kWh)\n- Mar 24: Super Off-Peak ~200 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~380 kWh)\n::>\n<::image: An orange electrical plug icon::>\n410 kWh used\n14.1 Daily avg kWh\n16.0 Daily avg kWh last month\n9.6% \u2191 Change in daily avg kWh from last year\n11.8% \u2193 Change in daily avg kWh from last month\n2.0 Max monthly demand\n5.1 Max annual demand\n29 \u21ba Days in billing cycle",
+      "type": "figure"
+    },
+    {
+      "id": "a89b9d73-f7d5-4355-a018-e322a98b8768",
+      "grounding": {
+        "box": {
+          "bottom": 0.7156507968902588,
+          "left": 0.0399194210767746,
+          "right": 0.5040302276611328,
+          "top": 0.6918604373931885
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a89b9d73-f7d5-4355-a018-e322a98b8768'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS. (FAVOR DE GUARDAR ESTA PARTE PARA SUS REGISTROS.)\n---\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT. (FAVOR DE DEVOLVER ESTA PARTE CON SU PAGO.)",
+      "type": "text"
+    },
+    {
+      "id": "89c1b4eb-76a8-4259-b80f-0d4b4f75e2dc",
+      "grounding": {
+        "box": {
+          "bottom": 0.765377402305603,
+          "left": 0.04054933041334152,
+          "right": 0.22650235891342163,
+          "top": 0.7220309972763062
+        },
+        "page": 0
+      },
+      "markdown": "<a id='89c1b4eb-76a8-4259-b80f-0d4b4f75e2dc'></a>\n\n<::logo: SDGE\nSDGE\nIt features a circular emblem with a yellow, green, and blue wave-like design to the left of the text.::>",
+      "type": "logo"
+    },
+    {
+      "id": "104817b6-ac6f-4259-9ce2-25b44df34e10",
+      "grounding": {
+        "box": {
+          "bottom": 0.765989363193512,
+          "left": 0.40479183197021484,
+          "right": 0.5142485499382019,
+          "top": 0.7161933779716492
+        },
+        "page": 0
+      },
+      "markdown": "<a id='104817b6-ac6f-4259-9ce2-25b44df34e10'></a>\n\nSave Paper &\nPostage\n---\nPAY ONLINE\nsdge.com",
+      "type": "text"
+    },
+    {
+      "id": "73e48930-f9c0-41e8-8327-1e53caeeec22",
+      "grounding": {
+        "box": {
+          "bottom": 0.749369204044342,
+          "left": 0.5160763263702393,
+          "right": 0.656806468963623,
+          "top": 0.713455855846405
+        },
+        "page": 0
+      },
+      "markdown": "<a id='73e48930-f9c0-41e8-8327-1e53caeeec22'></a>\n\nACCOUNT NUMBER\n\n[REDACTED]",
+      "type": "text"
+    },
+    {
+      "id": "8de7b21d-53fc-4352-bbd0-8beef9c37429",
+      "grounding": {
+        "box": {
+          "bottom": 0.7768779397010803,
+          "left": 0.6662999391555786,
+          "right": 0.9598768949508667,
+          "top": 0.7067837119102478
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8de7b21d-53fc-4352-bbd0-8beef9c37429'></a>\n\nDATE DUE: Apr 21, 2024\nAMOUNT DUE: $155.15",
+      "type": "text"
+    },
+    {
+      "id": "f93dcc82-e2cf-47f9-ad1c-fdeb4448d0d2",
+      "grounding": {
+        "box": {
+          "bottom": 0.796079695224762,
+          "left": 0.05019405484199524,
+          "right": 0.33350512385368347,
+          "top": 0.776543915271759
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f93dcc82-e2cf-47f9-ad1c-fdeb4448d0d2'></a>\n\nSERVICE ADDRESS:",
+      "type": "text"
+    },
+    {
+      "id": "2ea813be-2f2f-4d29-8b2c-41a22c7a3f13",
+      "grounding": {
+        "box": {
+          "bottom": 0.8445952534675598,
+          "left": 0.7592684626579285,
+          "right": 0.9569873213768005,
+          "top": 0.7789192795753479
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2ea813be-2f2f-4d29-8b2c-41a22c7a3f13'></a>\n\nPlease enter amount enclosed.\n$\nWrite account number on check and make\npayable to San Diego Gas & Electric.",
+      "type": "text"
+    },
+    {
+      "id": "f1314bcb-0f0e-400b-8c1a-0b135ee0c315",
+      "grounding": {
+        "box": {
+          "bottom": 0.895565390586853,
+          "left": 0.161959707736969,
+          "right": 0.35505831241607666,
+          "top": 0.8448382616043091
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f1314bcb-0f0e-400b-8c1a-0b135ee0c315'></a>\n\n<::illustration of three stacked black rectangles forming a step pattern: illustration::>",
+      "type": "figure"
+    },
+    {
+      "id": "ed857274-6ee5-4c37-a921-44e6aee95bee",
+      "grounding": {
+        "box": {
+          "bottom": 0.9128668308258057,
+          "left": 0.6485686898231506,
+          "right": 0.8679983019828796,
+          "top": 0.8680928945541382
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ed857274-6ee5-4c37-a921-44e6aee95bee'></a>\n\nSAN DIEGO GAS & ELECTRIC\nPO BOX 25111\nSANTA ANA CA 92799-5111",
+      "type": "text"
+    },
+    {
+      "id": "f1b5435a-a857-4843-8222-8cd9db1a7a55",
+      "grounding": {
+        "box": {
+          "bottom": 0.9836375117301941,
+          "left": 0.29124170541763306,
+          "right": 0.7587365508079529,
+          "top": 0.9611971974372864
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f1b5435a-a857-4843-8222-8cd9db1a7a55'></a>\n\n7 2 ________________________________________________________________________________",
+      "type": "text"
+    },
+    {
+      "id": "e67f99eb-550e-4061-9790-bec31c6d2e89",
+      "grounding": {
+        "box": {
+          "bottom": 0.8731296062469482,
+          "left": 0.9601331949234009,
+          "right": 0.9802353382110596,
+          "top": 0.8474280834197998
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e67f99eb-550e-4061-9790-bec31c6d2e89'></a>\n\nCY 21",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='9841f6b3-f033-419f-a234-887b82d5b5d9'></a>\n\n<::logo: SDGE\nSDGE\nCircular emblem with yellow, green, and blue curved stripes.::>\n\n<a id='3a9c88b7-bebf-437b-98de-c9b4749f87af'></a>\n\nACCOUNT NUMBER [redacted]\nSERVICE FOR [redacted]\n\n<a id='4e68f18b-5b40-4d12-b354-9ffd77b00ffb'></a>\n\nDATE MAILED Apr 2, 2024\nsdge.com\n\n<a id='45dcb0bb-95be-42b0-bc94-e5b787947694'></a>\n\nPage 1 of 6\n\n<a id='c8a15144-6081-41c7-941d-f4459551deba'></a>\n\nSign up to go Paperless\nSign up to go Paperless today.\nVisit sdge.com/go-paperless-today.\n\n<a id='93de28da-bf90-4c77-a4e1-a4229981630e'></a>\n\nIf your vehicle hits a power pole or electrical equipment, remain inside the vehicle and call 9-1-1. The ground around your vehicle may be energized.\nFind out if you qualify for bill discounts, payment plans, debt relief and more at sdge.com/assistance.\n\n<a id='8a25e61e-8e76-4352-846d-31233bbd80a6'></a>\n\nFinancial assistance to help eligible low income customers reduce outstanding account balances is available through SDG&E's new Arrearage Management Payment (AMP) plan. To see if you qualify and for Terms & Conditions, visit www.sdqe.com/AMP or call us at 1-800-411-7343.\n\n<a id='94148085-3ca5-4fe1-b010-b2d20c0d5ba1'></a>\n\nCARE You are currently receiving the CARE discount\n\n<a id='473f71a2-5c6f-4143-b2ec-96ca57bf6669'></a>\n\n## Account Summary\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Previous Balance</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\">$269.26</td></tr>\n<tr><td id=\"0-6\">Payment Received</td><td id=\"0-7\">3/21/24</td><td id=\"0-8\">THANK YOU</td><td id=\"0-9\">- 269.26</td></tr>\n<tr><td id=\"0-a\">Current Charges</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\">+155.15</td></tr>\n<tr><td id=\"0-e\">Total Amount Due</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">$155.15</td></tr>\n</table>\n\n<a id='e517369d-051e-4679-bccc-126e08840724'></a>\n\n<table id=\"0-i\">\n<tr><td id=\"0-j\" colspan=\"2\">Summary of Current Charges</td><td id=\"0-k\"></td><td id=\"0-l\">(See page 2 for details)</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Billing Period</td><td id=\"0-o\">Usage</td><td id=\"0-p\">Amount($)</td></tr>\n<tr><td id=\"0-q\">Gas</td><td id=\"0-r\">Mar 1, 2024 - Mar 29, 2024</td><td id=\"0-s\">26 Therms</td><td id=\"0-t\">44.12</td></tr>\n<tr><td id=\"0-u\">Electric</td><td id=\"0-v\">Mar 1, 2024 - Mar 29, 2024</td><td id=\"0-w\">410 kWh</td><td id=\"0-x\">111.03</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">Total Charges this Month</td><td id=\"0-z\"></td><td id=\"0-A\">$155.15</td></tr>\n</table>\n\n<a id='f015a216-99ba-409c-909b-67c364e3c2eb'></a>\n\n**Regulatory Notices**\n* All customers are required to pay a Competition Transition Charge as part of the charges above, including those who choose an electric service provider other than SDG&E.\n\n<a id='2fbcfbbb-5afd-4577-8401-e4442415a4aa'></a>\n\nDATE DUE Apr 21, 2024\nAMOUNT DUE $155.15\n<:: Gas Usage History (Total therms used)\nBar chart showing monthly therms usage.\nY-axis: Therms, with major grid lines and labels at 0, 7, 15, 22, 30, 37.\nX-axis: Months from March 2023 to March 2024, labeled as MAR MAY JUN JUN AUG AUG SEP OCT NOV DEC JAN FEB MAR, with year indicators '23' and '24'.\nData points (approximate therms per month):\nMAR 23: 32\nMAY 23: 27\nJUN 23: 22\nJUL 23 (represented by second JUN label): 20\nAUG 23: 10\nSEP 23: 15\nOCT 23: 16\nNOV 23: 22\nDEC 23: 28\nJAN 24: 34\nFEB 24: 31\nMAR 24: 25\n: chart::>\n26 Therms used\n0.9 Daily avg therms\n1.1 Daily avg therms last month\n18.8% Change in daily avg therms from last year\n18.5% Change in daily avg therms from last month\n29 Days in billing cycle\n\n<a id='33ce6da8-360b-4689-9c66-f4a3c06aa975'></a>\n\nElectric Usage History (Total kWh used)\n<::chart: Bar chart titled \"Electric Usage History (Total kWh used)\" showing kilowatt hours (kWh) used per month, broken down by On-Peak, Off-Peak, and Super Off-Peak.\nY-axis is labeled \"Kilowatt Hours\" with major tick marks at 0, 202, 404, 606, 808, and 1010 kWh.\nX-axis shows months from Mar 23 to Mar 24.\nLegend: On-Peak (orange), Off-Peak (light blue), Super Off-Peak (dark blue).\n\nData:\n- Mar 23: Super Off-Peak ~250 kWh, Off-Peak ~50 kWh, On-Peak ~70 kWh (Total ~370 kWh)\n- May: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~450 kWh)\n- Jun: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~120 kWh (Total ~520 kWh)\n- Jul: Super Off-Peak ~400 kWh, Off-Peak ~150 kWh, On-Peak ~180 kWh (Total ~730 kWh)\n- Aug: Super Off-Peak ~600 kWh, Off-Peak ~200 kWh, On-Peak ~200 kWh (Total ~1000 kWh)\n- Sep: Super Off-Peak ~450 kWh, Off-Peak ~150 kWh, On-Peak ~150 kWh (Total ~750 kWh)\n- Oct: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~500 kWh)\n- Nov: Super Off-Peak ~200 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~380 kWh)\n- Dec: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~450 kWh)\n- Jan: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~500 kWh)\n- Feb: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~430 kWh)\n- Mar 24: Super Off-Peak ~200 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~380 kWh)\n::>\n<::image: An orange electrical plug icon::>\n410 kWh used\n14.1 Daily avg kWh\n16.0 Daily avg kWh last month\n9.6% \u2191 Change in daily avg kWh from last year\n11.8% \u2193 Change in daily avg kWh from last month\n2.0 Max monthly demand\n5.1 Max annual demand\n29 \u21ba Days in billing cycle\n\n<a id='a89b9d73-f7d5-4355-a018-e322a98b8768'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS. (FAVOR DE GUARDAR ESTA PARTE PARA SUS REGISTROS.)\n---\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT. (FAVOR DE DEVOLVER ESTA PARTE CON SU PAGO.)\n\n<a id='89c1b4eb-76a8-4259-b80f-0d4b4f75e2dc'></a>\n\n<::logo: SDGE\nSDGE\nIt features a circular emblem with a yellow, green, and blue wave-like design to the left of the text.::>\n\n<a id='104817b6-ac6f-4259-9ce2-25b44df34e10'></a>\n\nSave Paper &\nPostage\n---\nPAY ONLINE\nsdge.com\n\n<a id='73e48930-f9c0-41e8-8327-1e53caeeec22'></a>\n\nACCOUNT NUMBER\n\n[REDACTED]\n\n<a id='8de7b21d-53fc-4352-bbd0-8beef9c37429'></a>\n\nDATE DUE: Apr 21, 2024\nAMOUNT DUE: $155.15\n\n<a id='f93dcc82-e2cf-47f9-ad1c-fdeb4448d0d2'></a>\n\nSERVICE ADDRESS:\n\n<a id='2ea813be-2f2f-4d29-8b2c-41a22c7a3f13'></a>\n\nPlease enter amount enclosed.\n$\nWrite account number on check and make\npayable to San Diego Gas & Electric.\n\n<a id='f1314bcb-0f0e-400b-8c1a-0b135ee0c315'></a>\n\n<::illustration of three stacked black rectangles forming a step pattern: illustration::>\n\n<a id='ed857274-6ee5-4c37-a921-44e6aee95bee'></a>\n\nSAN DIEGO GAS & ELECTRIC\nPO BOX 25111\nSANTA ANA CA 92799-5111\n\n<a id='f1b5435a-a857-4843-8222-8cd9db1a7a55'></a>\n\n7 2 ________________________________________________________________________________\n\n<a id='e67f99eb-550e-4061-9790-bec31c6d2e89'></a>\n\nCY 21",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 50375,
+    "filename": "utility_bill.pdf",
+    "job_id": "fnpdatd7p5rr7324h6tiaj3s4",
+    "org_id": null,
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "9841f6b3-f033-419f-a234-887b82d5b5d9",
+        "3a9c88b7-bebf-437b-98de-c9b4749f87af",
+        "4e68f18b-5b40-4d12-b354-9ffd77b00ffb",
+        "45dcb0bb-95be-42b0-bc94-e5b787947694",
+        "c8a15144-6081-41c7-941d-f4459551deba",
+        "93de28da-bf90-4c77-a4e1-a4229981630e",
+        "8a25e61e-8e76-4352-846d-31233bbd80a6",
+        "94148085-3ca5-4fe1-b010-b2d20c0d5ba1",
+        "473f71a2-5c6f-4143-b2ec-96ca57bf6669",
+        "e517369d-051e-4679-bccc-126e08840724",
+        "f015a216-99ba-409c-909b-67c364e3c2eb",
+        "2fbcfbbb-5afd-4577-8401-e4442415a4aa",
+        "33ce6da8-360b-4689-9c66-f4a3c06aa975",
+        "a89b9d73-f7d5-4355-a018-e322a98b8768",
+        "89c1b4eb-76a8-4259-b80f-0d4b4f75e2dc",
+        "104817b6-ac6f-4259-9ce2-25b44df34e10",
+        "73e48930-f9c0-41e8-8327-1e53caeeec22",
+        "8de7b21d-53fc-4352-bbd0-8beef9c37429",
+        "f93dcc82-e2cf-47f9-ad1c-fdeb4448d0d2",
+        "2ea813be-2f2f-4d29-8b2c-41a22c7a3f13",
+        "f1314bcb-0f0e-400b-8c1a-0b135ee0c315",
+        "ed857274-6ee5-4c37-a921-44e6aee95bee",
+        "f1b5435a-a857-4843-8222-8cd9db1a7a55",
+        "e67f99eb-550e-4061-9790-bec31c6d2e89"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='9841f6b3-f033-419f-a234-887b82d5b5d9'></a>\n\n<::logo: SDGE\nSDGE\nCircular emblem with yellow, green, and blue curved stripes.::>\n\n<a id='3a9c88b7-bebf-437b-98de-c9b4749f87af'></a>\n\nACCOUNT NUMBER [redacted]\nSERVICE FOR [redacted]\n\n<a id='4e68f18b-5b40-4d12-b354-9ffd77b00ffb'></a>\n\nDATE MAILED Apr 2, 2024\nsdge.com\n\n<a id='45dcb0bb-95be-42b0-bc94-e5b787947694'></a>\n\nPage 1 of 6\n\n<a id='c8a15144-6081-41c7-941d-f4459551deba'></a>\n\nSign up to go Paperless\nSign up to go Paperless today.\nVisit sdge.com/go-paperless-today.\n\n<a id='93de28da-bf90-4c77-a4e1-a4229981630e'></a>\n\nIf your vehicle hits a power pole or electrical equipment, remain inside the vehicle and call 9-1-1. The ground around your vehicle may be energized.\nFind out if you qualify for bill discounts, payment plans, debt relief and more at sdge.com/assistance.\n\n<a id='8a25e61e-8e76-4352-846d-31233bbd80a6'></a>\n\nFinancial assistance to help eligible low income customers reduce outstanding account balances is available through SDG&E's new Arrearage Management Payment (AMP) plan. To see if you qualify and for Terms & Conditions, visit www.sdqe.com/AMP or call us at 1-800-411-7343.\n\n<a id='94148085-3ca5-4fe1-b010-b2d20c0d5ba1'></a>\n\nCARE You are currently receiving the CARE discount\n\n<a id='473f71a2-5c6f-4143-b2ec-96ca57bf6669'></a>\n\n## Account Summary\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Previous Balance</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\">$269.26</td></tr>\n<tr><td id=\"0-6\">Payment Received</td><td id=\"0-7\">3/21/24</td><td id=\"0-8\">THANK YOU</td><td id=\"0-9\">- 269.26</td></tr>\n<tr><td id=\"0-a\">Current Charges</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\">+155.15</td></tr>\n<tr><td id=\"0-e\">Total Amount Due</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">$155.15</td></tr>\n</table>\n\n<a id='e517369d-051e-4679-bccc-126e08840724'></a>\n\n<table id=\"0-i\">\n<tr><td id=\"0-j\" colspan=\"2\">Summary of Current Charges</td><td id=\"0-k\"></td><td id=\"0-l\">(See page 2 for details)</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Billing Period</td><td id=\"0-o\">Usage</td><td id=\"0-p\">Amount($)</td></tr>\n<tr><td id=\"0-q\">Gas</td><td id=\"0-r\">Mar 1, 2024 - Mar 29, 2024</td><td id=\"0-s\">26 Therms</td><td id=\"0-t\">44.12</td></tr>\n<tr><td id=\"0-u\">Electric</td><td id=\"0-v\">Mar 1, 2024 - Mar 29, 2024</td><td id=\"0-w\">410 kWh</td><td id=\"0-x\">111.03</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">Total Charges this Month</td><td id=\"0-z\"></td><td id=\"0-A\">$155.15</td></tr>\n</table>\n\n<a id='f015a216-99ba-409c-909b-67c364e3c2eb'></a>\n\n**Regulatory Notices**\n* All customers are required to pay a Competition Transition Charge as part of the charges above, including those who choose an electric service provider other than SDG&E.\n\n<a id='2fbcfbbb-5afd-4577-8401-e4442415a4aa'></a>\n\nDATE DUE Apr 21, 2024\nAMOUNT DUE $155.15\n<:: Gas Usage History (Total therms used)\nBar chart showing monthly therms usage.\nY-axis: Therms, with major grid lines and labels at 0, 7, 15, 22, 30, 37.\nX-axis: Months from March 2023 to March 2024, labeled as MAR MAY JUN JUN AUG AUG SEP OCT NOV DEC JAN FEB MAR, with year indicators '23' and '24'.\nData points (approximate therms per month):\nMAR 23: 32\nMAY 23: 27\nJUN 23: 22\nJUL 23 (represented by second JUN label): 20\nAUG 23: 10\nSEP 23: 15\nOCT 23: 16\nNOV 23: 22\nDEC 23: 28\nJAN 24: 34\nFEB 24: 31\nMAR 24: 25\n: chart::>\n26 Therms used\n0.9 Daily avg therms\n1.1 Daily avg therms last month\n18.8% Change in daily avg therms from last year\n18.5% Change in daily avg therms from last month\n29 Days in billing cycle\n\n<a id='33ce6da8-360b-4689-9c66-f4a3c06aa975'></a>\n\nElectric Usage History (Total kWh used)\n<::chart: Bar chart titled \"Electric Usage History (Total kWh used)\" showing kilowatt hours (kWh) used per month, broken down by On-Peak, Off-Peak, and Super Off-Peak.\nY-axis is labeled \"Kilowatt Hours\" with major tick marks at 0, 202, 404, 606, 808, and 1010 kWh.\nX-axis shows months from Mar 23 to Mar 24.\nLegend: On-Peak (orange), Off-Peak (light blue), Super Off-Peak (dark blue).\n\nData:\n- Mar 23: Super Off-Peak ~250 kWh, Off-Peak ~50 kWh, On-Peak ~70 kWh (Total ~370 kWh)\n- May: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~450 kWh)\n- Jun: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~120 kWh (Total ~520 kWh)\n- Jul: Super Off-Peak ~400 kWh, Off-Peak ~150 kWh, On-Peak ~180 kWh (Total ~730 kWh)\n- Aug: Super Off-Peak ~600 kWh, Off-Peak ~200 kWh, On-Peak ~200 kWh (Total ~1000 kWh)\n- Sep: Super Off-Peak ~450 kWh, Off-Peak ~150 kWh, On-Peak ~150 kWh (Total ~750 kWh)\n- Oct: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~500 kWh)\n- Nov: Super Off-Peak ~200 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~380 kWh)\n- Dec: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~450 kWh)\n- Jan: Super Off-Peak ~300 kWh, Off-Peak ~100 kWh, On-Peak ~100 kWh (Total ~500 kWh)\n- Feb: Super Off-Peak ~250 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~430 kWh)\n- Mar 24: Super Off-Peak ~200 kWh, Off-Peak ~100 kWh, On-Peak ~80 kWh (Total ~380 kWh)\n::>\n<::image: An orange electrical plug icon::>\n410 kWh used\n14.1 Daily avg kWh\n16.0 Daily avg kWh last month\n9.6% \u2191 Change in daily avg kWh from last year\n11.8% \u2193 Change in daily avg kWh from last month\n2.0 Max monthly demand\n5.1 Max annual demand\n29 \u21ba Days in billing cycle\n\n<a id='a89b9d73-f7d5-4355-a018-e322a98b8768'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS. (FAVOR DE GUARDAR ESTA PARTE PARA SUS REGISTROS.)\n---\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT. (FAVOR DE DEVOLVER ESTA PARTE CON SU PAGO.)\n\n<a id='89c1b4eb-76a8-4259-b80f-0d4b4f75e2dc'></a>\n\n<::logo: SDGE\nSDGE\nIt features a circular emblem with a yellow, green, and blue wave-like design to the left of the text.::>\n\n<a id='104817b6-ac6f-4259-9ce2-25b44df34e10'></a>\n\nSave Paper &\nPostage\n---\nPAY ONLINE\nsdge.com\n\n<a id='73e48930-f9c0-41e8-8327-1e53caeeec22'></a>\n\nACCOUNT NUMBER\n\n[REDACTED]\n\n<a id='8de7b21d-53fc-4352-bbd0-8beef9c37429'></a>\n\nDATE DUE: Apr 21, 2024\nAMOUNT DUE: $155.15\n\n<a id='f93dcc82-e2cf-47f9-ad1c-fdeb4448d0d2'></a>\n\nSERVICE ADDRESS:\n\n<a id='2ea813be-2f2f-4d29-8b2c-41a22c7a3f13'></a>\n\nPlease enter amount enclosed.\n$\nWrite account number on check and make\npayable to San Diego Gas & Electric.\n\n<a id='f1314bcb-0f0e-400b-8c1a-0b135ee0c315'></a>\n\n<::illustration of three stacked black rectangles forming a step pattern: illustration::>\n\n<a id='ed857274-6ee5-4c37-a921-44e6aee95bee'></a>\n\nSAN DIEGO GAS & ELECTRIC\nPO BOX 25111\nSANTA ANA CA 92799-5111\n\n<a id='f1b5435a-a857-4843-8222-8cd9db1a7a55'></a>\n\n7 2 ________________________________________________________________________________\n\n<a id='e67f99eb-550e-4061-9790-bec31c6d2e89'></a>\n\nCY 21",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "9841f6b3-f033-419f-a234-887b82d5b5d9": {
+      "box": {
+        "bottom": 0.06782948225736618,
+        "left": 0.05029398947954178,
+        "right": 0.2721189558506012,
+        "top": 0.013683153316378593
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "3a9c88b7-bebf-437b-98de-c9b4749f87af": {
+      "box": {
+        "bottom": 0.09613759070634842,
+        "left": 0.2949819564819336,
+        "right": 0.5256223678588867,
+        "top": 0.014611378312110901
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4e68f18b-5b40-4d12-b354-9ffd77b00ffb": {
+      "box": {
+        "bottom": 0.048924438655376434,
+        "left": 0.6548332571983337,
+        "right": 0.8136134743690491,
+        "top": 0.020226528868079185
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "45dcb0bb-95be-42b0-bc94-e5b787947694": {
+      "box": {
+        "bottom": 0.03361675143241882,
+        "left": 0.8805665373802185,
+        "right": 0.9673760533332825,
+        "top": 0.016971779987215996
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "c8a15144-6081-41c7-941d-f4459551deba": {
+      "box": {
+        "bottom": 0.10444661974906921,
+        "left": 0.6575372219085693,
+        "right": 0.8892198801040649,
+        "top": 0.05175827443599701
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "93de28da-bf90-4c77-a4e1-a4229981630e": {
+      "box": {
+        "bottom": 0.19986368715763092,
+        "left": 0.03189244866371155,
+        "right": 0.6325112581253052,
+        "top": 0.13323025405406952
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8a25e61e-8e76-4352-846d-31233bbd80a6": {
+      "box": {
+        "bottom": 0.2579912841320038,
+        "left": 0.03336980938911438,
+        "right": 0.6468286514282227,
+        "top": 0.21882805228233337
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "94148085-3ca5-4fe1-b010-b2d20c0d5ba1": {
+      "box": {
+        "bottom": 0.29531025886535645,
+        "left": 0.03449264168739319,
+        "right": 0.41074270009994507,
+        "top": 0.2662675380706787
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "473f71a2-5c6f-4143-b2ec-96ca57bf6669": {
+      "box": {
+        "bottom": 0.4053070843219757,
+        "left": 0.03164476156234741,
+        "right": 0.6496996879577637,
+        "top": 0.3087679445743561
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.4027857229879217,
+        "left": 0.03453588910921604,
+        "right": 0.647154374776516,
+        "top": 0.33103513953628827
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3494500865928116,
+        "left": 0.03453588910921604,
+        "right": 0.17305652924964132,
+        "top": 0.33103513953628827
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.34945421074881045,
+        "left": 0.17271196873663003,
+        "right": 0.31530684331907255,
+        "top": 0.3310394670338104
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.34945957026341123,
+        "left": 0.31515485058453785,
+        "right": 0.5003603176471918,
+        "top": 0.33104391104938113
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3494638209635761,
+        "left": 0.500265381142966,
+        "right": 0.6470789307576551,
+        "top": 0.33104969227051034
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3669514794325009,
+        "left": 0.03455673358289139,
+        "right": 0.17271196873663003,
+        "top": 0.3494460865772655
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.366933734442366,
+        "left": 0.17238475678957715,
+        "right": 0.31515485058453785,
+        "top": 0.3494500865928116
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.36691536909275335,
+        "left": 0.3150106938218468,
+        "right": 0.500265381142966,
+        "top": 0.34945421074881045
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.36689152619121207,
+        "left": 0.5001754876109046,
+        "right": 0.6471035620765437,
+        "top": 0.34945957026341123
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.38615771191397974,
+        "left": 0.03457655280781966,
+        "right": 0.17238475678957715,
+        "top": 0.366933734442366
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.386159830500949,
+        "left": 0.17202497402840994,
+        "right": 0.3150106938218468,
+        "top": 0.36691536909275335
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.38616257798019415,
+        "left": 0.3148518143705704,
+        "right": 0.5001754876109046,
+        "top": 0.36689152619121207
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.3861647592807957,
+        "left": 0.5000761101848126,
+        "right": 0.6471308581304137,
+        "top": 0.3668726068732281
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.40269754527408974,
+        "left": 0.034598295378439475,
+        "right": 0.17202497402840994,
+        "top": 0.3861556734289869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.40272406683077544,
+        "left": 0.1717154258652199,
+        "right": 0.3148518143705704,
+        "top": 0.38615771191397974
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.40275842911229187,
+        "left": 0.31471506246449865,
+        "right": 0.5000761101848126,
+        "top": 0.386159830500949
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4027857229879217,
+        "left": 0.49999052829818946,
+        "right": 0.6471543747765159,
+        "top": 0.38616257798019415
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "e517369d-051e-4679-bccc-126e08840724": {
+      "box": {
+        "bottom": 0.5189318060874939,
+        "left": 0.03148624300956726,
+        "right": 0.6493200063705444,
+        "top": 0.42867007851600647
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.5158265079975894,
+        "left": 0.03616015980328087,
+        "right": 0.6458663759333323,
+        "top": 0.4310999484405443
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.4514604561301502,
+        "left": 0.036165980523983766,
+        "right": 0.3721952215771631,
+        "top": 0.4311208305613082
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.4514624608137599,
+        "left": 0.37217119970712415,
+        "right": 0.46492188959619823,
+        "top": 0.4311137533153798
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.4514663723696603,
+        "left": 0.46492067737646137,
+        "right": 0.6458473842074345,
+        "top": 0.4310999484405443
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.46711825221413916,
+        "left": 0.03616456406839409,
+        "right": 0.1568070107262069,
+        "top": 0.4514531913256137
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.4671157530162327,
+        "left": 0.15566674692594798,
+        "right": 0.3722137057285682,
+        "top": 0.4514557995316756
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.4671112242813331,
+        "left": 0.3721952215771631,
+        "right": 0.46492067737646137,
+        "top": 0.4514604561301502
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.4671092854821048,
+        "left": 0.4649197452587981,
+        "right": 0.6458520014912669,
+        "top": 0.4514624608137599
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.48298478206965595,
+        "left": 0.03616313043414636,
+        "right": 0.15566674692594798,
+        "top": 0.4671157530162327
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.48300590951888045,
+        "left": 0.15451125949792216,
+        "right": 0.3722324779553131,
+        "top": 0.4671112242813331
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.48301490370662475,
+        "left": 0.3722137057285682,
+        "right": 0.4649197452587981,
+        "top": 0.4671092854821048
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.48303246174001035,
+        "left": 0.46491879772420214,
+        "right": 0.6458567037540806,
+        "top": 0.46710550157201064
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5025633816894324,
+        "left": 0.036161359099626915,
+        "right": 0.15451125949792216,
+        "top": 0.4829732976856105
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5025639386701768,
+        "left": 0.15308566341117713,
+        "right": 0.37225557673030774,
+        "top": 0.48298478206965595
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5025641741540549,
+        "left": 0.3722324779553131,
+        "right": 0.46491879772420214,
+        "top": 0.48300590951888045
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.5025646339926734,
+        "left": 0.4649176331287859,
+        "right": 0.6458624704167885,
+        "top": 0.48301490370662475
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.5158265079975894,
+        "left": 0.03616015980328087,
+        "right": 0.37227121847804145,
+        "top": 0.5025630845474339
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.515808007164078,
+        "left": 0.37225557673030774,
+        "right": 0.4649176331287859,
+        "top": 0.5025639386701768
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.5158029075957725,
+        "left": 0.4649168444667064,
+        "right": 0.6458663759333323,
+        "top": 0.5025641741540549
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "f015a216-99ba-409c-909b-67c364e3c2eb": {
+      "box": {
+        "bottom": 0.5905463695526123,
+        "left": 0.03274914622306824,
+        "right": 0.6321992874145508,
+        "top": 0.5469577312469482
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2fbcfbbb-5afd-4577-8401-e4442415a4aa": {
+      "box": {
+        "bottom": 0.41050541400909424,
+        "left": 0.669222354888916,
+        "right": 0.9817607402801514,
+        "top": 0.13948754966259003
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "33ce6da8-360b-4689-9c66-f4a3c06aa975": {
+      "box": {
+        "bottom": 0.6697367429733276,
+        "left": 0.6687873601913452,
+        "right": 0.9904124736785889,
+        "top": 0.418756365776062
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "a89b9d73-f7d5-4355-a018-e322a98b8768": {
+      "box": {
+        "bottom": 0.7156507968902588,
+        "left": 0.0399194210767746,
+        "right": 0.5040302276611328,
+        "top": 0.6918604373931885
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "89c1b4eb-76a8-4259-b80f-0d4b4f75e2dc": {
+      "box": {
+        "bottom": 0.765377402305603,
+        "left": 0.04054933041334152,
+        "right": 0.22650235891342163,
+        "top": 0.7220309972763062
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "104817b6-ac6f-4259-9ce2-25b44df34e10": {
+      "box": {
+        "bottom": 0.765989363193512,
+        "left": 0.40479183197021484,
+        "right": 0.5142485499382019,
+        "top": 0.7161933779716492
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "73e48930-f9c0-41e8-8327-1e53caeeec22": {
+      "box": {
+        "bottom": 0.749369204044342,
+        "left": 0.5160763263702393,
+        "right": 0.656806468963623,
+        "top": 0.713455855846405
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8de7b21d-53fc-4352-bbd0-8beef9c37429": {
+      "box": {
+        "bottom": 0.7768779397010803,
+        "left": 0.6662999391555786,
+        "right": 0.9598768949508667,
+        "top": 0.7067837119102478
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f93dcc82-e2cf-47f9-ad1c-fdeb4448d0d2": {
+      "box": {
+        "bottom": 0.796079695224762,
+        "left": 0.05019405484199524,
+        "right": 0.33350512385368347,
+        "top": 0.776543915271759
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2ea813be-2f2f-4d29-8b2c-41a22c7a3f13": {
+      "box": {
+        "bottom": 0.8445952534675598,
+        "left": 0.7592684626579285,
+        "right": 0.9569873213768005,
+        "top": 0.7789192795753479
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f1314bcb-0f0e-400b-8c1a-0b135ee0c315": {
+      "box": {
+        "bottom": 0.895565390586853,
+        "left": 0.161959707736969,
+        "right": 0.35505831241607666,
+        "top": 0.8448382616043091
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "ed857274-6ee5-4c37-a921-44e6aee95bee": {
+      "box": {
+        "bottom": 0.9128668308258057,
+        "left": 0.6485686898231506,
+        "right": 0.8679983019828796,
+        "top": 0.8680928945541382
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f1b5435a-a857-4843-8222-8cd9db1a7a55": {
+      "box": {
+        "bottom": 0.9836375117301941,
+        "left": 0.29124170541763306,
+        "right": 0.7587365508079529,
+        "top": 0.9611971974372864
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e67f99eb-550e-4061-9790-bec31c6d2e89": {
+      "box": {
+        "bottom": 0.8731296062469482,
+        "left": 0.9601331949234009,
+        "right": 0.9802353382110596,
+        "top": 0.8474280834197998
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}
