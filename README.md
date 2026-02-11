@@ -987,30 +987,6 @@ git push origin feature/your-feature-name
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙏 Acknowledgments
-
-- **DeepLearning.AI** for the course structure
-- **LandingAI** for the ADE platform and Vision Agent
-- **AWS** for cloud infrastructure support
-- **PaddlePaddle** team for PaddleOCR
-- **Microsoft** for LayoutLM research
-- **Google** for Tesseract OCR
-
----
-
-## 📞 Support
-
-- 📧 **LandingAI Support**: support@landingai.com
-- 📖 **Documentation**: [docs.landing.ai](https://docs.landing.ai)
-- 🐛 **Issues**: GitHub Issues
-
----
 
 <div align="center">
 
