@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+*.bin
+*.dll
+*.dylib
+*.json
+*.sqlite3
 
 # Distribution / packaging
 .Python

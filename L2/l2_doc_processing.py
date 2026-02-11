@@ -15,13 +15,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
-
 def llm():
     llm = ChatOpenAI(
-        # openai_api_base="https://router.huggingface.co/v1",
+        openai_api_base="https://router.huggingface.co/v1",
         model="HuggingFaceTB/SmolLM3-3B:hf-inference",
-        # openai_api_key=os.environ["HF_TOKEN"],  # Important: add this
+        openai_api_key=os.environ["HF_TOKEN"],  # Important: add this
         temperature=0.7,
     )
     return llm
