@@ -12,7 +12,6 @@ from langchain_openai import ChatOpenAI
 from huggingface_hub import InferenceClient
 from langchain_huggingface import HuggingFaceEndpoint
 from dotenv import load_dotenv
-
 load_dotenv()
 
 def llm():
@@ -20,7 +19,7 @@ def llm():
         openai_api_base="https://router.huggingface.co/v1",
         model="HuggingFaceTB/SmolLM3-3B:hf-inference",
         openai_api_key=os.environ["HF_TOKEN"],  # Important: add this
-        temperature=0.7,
+        temperature=1,
     )
     return llm
 
