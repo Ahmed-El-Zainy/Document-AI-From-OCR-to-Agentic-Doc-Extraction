@@ -155,6 +155,40 @@ This repository contains a comprehensive course on **Document AI** and **Intelli
 
 ---
 
+## Introduction
+
+This repository contains a course or tutorial series focused on  **Document AI** , progressing from basic OCR (Optical Character Recognition) to advanced Agentic Document Extraction (ADE) and RAG (Retrieval-Augmented Generation) pipelines.
+
+## Course Structure
+
+The course is organized into several "Labs," each contained within its own subdirectory. The directory naming convention (`L2`, `L4`, etc.) suggests a step-by-step progression, though the internal Lab numbering differs slightly.
+
+| Directory     | Notebook File       | Lab Title                                                | Key Topics                                                                                                                                                                                   |
+| ------------- | ------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **L2**  | **L2.ipynb**  | **Lab 1: Document Processing with OCR**            | • Basic OCR with Tesseract ``• Parsing sample documents``• Using Regex for extraction ``• Building a simple OCR agent``• Limitations of basic OCR                                       |
+| **L4**  | **L4.ipynb**  | **Lab 2: Document Processing with PaddleOCR**      | • Advanced OCR with PaddleOCR (Deep Learning based)``• Text detection vs. recognition``• Layout detection``• Handling tables and handwriting                                             |
+| **L6**  | **L6.ipynb**  | **Lab 3: Building Agentic Document Understanding** | • LayoutReader for reading order ``• Vision-Language Model (VLM) for charts/tables``• Building custom tools (`AnalyzeChart`, `AnalyzeTable`)``• Assembling a LangChain agent         |
+| **L8**  | **L8.ipynb**  | **Lab 4: Agentic Document Extraction (Part I)**    | • Introduction to LandingAI's ADE framework ``• Vision-First, Data-Centric, Agentic approach``• Extracting Key-Value pairs``• Handling "difficult" documents (charts, handwritten forms) |
+| **L9**  | **L9.ipynb**  | **Lab 4: Agentic Document Extraction (Part II)**   | • Processing multiple document types ``• Document categorization schemas``• Validation logic for extractions``• Building a full processing pipeline                                      |
+| **L11** | **L11.ipynb** | **Lab 5: Agentic Document Extraction for RAG**     | • RAG (Retrieval-Augmented Generation) with documents ``• Preprocessing, Retrieval, Generation phases``• Vector database setup (ChromaDB)``• Visual grounding in RAG                     |
+
+## Key Components
+
+* **Notebooks (.ipynb)** : The core interactive lessons containing code, explanations, and exercises.
+
+---
+
+  helper.py** : A shared utility file present in multiple directories (and root), likely containing helper functions for image processing, visualization, or API interaction.
+
+* **`rag_pipeline_aws/`** : A separate directory likely containing a more production-oriented or cloud-based RAG implementation (based on the name).
+* **Images/Assets** : Each Lab directory contains sample images (invoice.png,receipt.jpg,apple_10k.pdf) used for testing the document processing pipelines.
+
+## Getting Started
+
+To begin, it is recommended to start with **Lab 1 (**
+
+**L2/L2.ipynb)** to understand the basics of OCR and agent construction before moving to more advanced topics like PaddleOCR and Agentic Extraction.
+
 ## 📚 Course Structure
 
 The course is organized into progressive lessons, each building upon previous concepts:
@@ -201,7 +235,7 @@ The course is organized into progressive lessons, each building upon previous co
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ahmed-El-Zainy/Document-AI-From-OCR-to-Agentic-Doc-Extraction.git
 cd document_ai_from_OCR_to_agentic_doc_extraction
 ```
 
@@ -209,11 +243,11 @@ cd document_ai_from_OCR_to_agentic_doc_extraction
 
 ```bash
 # Using venv
-python3.10 -m venv venv
+python3.10.6 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Or using conda
-conda create -n docai python=3.10
+conda create -n docai python=3.10.6
 conda activate docai
 ```
 
@@ -253,8 +287,12 @@ pip install paddlepaddle==3.0.0 paddleocr
 Create a `.env` file in the project root:
 
 ```bash
-# LandingAI Configuration
-VISION_AGENT_API_KEY=your_landingai_api_key_here
+# Mosted Used in notebooks
+####  LandingAI Configuration
+VISION_AGENT_API_KEY= your_landingai_api_key_here
+HF_TOKEN = your_huggingface_api_key # chat models & emebedding models
+GROQ_API_KEY = your_groq_api_key # vlm models
+
 
 # AWS Configuration (for Lab 6)
 AWS_ACCESS_KEY_ID=your_aws_access_key
@@ -263,9 +301,6 @@ AWS_REGION=us-west-2
 S3_BUCKET=your-bucket-name
 BEDROCK_MODEL_ID=us.anthropic.claude-sonnet-4-5-20250929-v1:0
 BEDROCK_KB_ID=your_knowledge_base_id
-
-# OpenAI Configuration (optional)
-OPENAI_API_KEY=your_openai_api_key
 ```
 
 ---
@@ -987,8 +1022,20 @@ git push origin feature/your-feature-name
 
 ---
 
+## 📄 License
 
-<div align="center">
+This project is licensed under the MIT License.
+
+---
+
+## 🙏 Acknowledgments
+
+- **DeepLearning.AI** for the course structure
+- **LandingAI** for the ADE platform and Vision Agent
+- **AWS** for cloud infrastructure support
+- **PaddlePaddle** team for PaddleOCR
+- **Microsoft** for LayoutLM research
+- **Google** for Tesseract OCR
 
 **[⬆ Back to Top](#-document-ai-from-ocr-to-agentic-document-extraction)**
 
