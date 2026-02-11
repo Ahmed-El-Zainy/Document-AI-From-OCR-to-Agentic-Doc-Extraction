@@ -529,13 +529,13 @@ output_dir = Path("results")
 for doc_path in input_dir.glob("*.pdf"):
     try:
         response = client.parse(doc_path)
-    
+  
         # Save markdown
         (output_dir / f"{doc_path.stem}.md").write_text(response.markdown)
-    
+  
         # Save grounding data
         # ... (save JSON with bounding boxes)
-    
+  
         print(f"✅ Processed: {doc_path.name}")
     except Exception as e:
         print(f"❌ Failed: {doc_path.name} - {e}")
